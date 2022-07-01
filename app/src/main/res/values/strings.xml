@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10119276_MyDiaryUTS</string>
+    <string name="txt_tambah">txt_tambah</string>
+    <string name="txt_diary">NEW DIARY</string>
+    <string name="txt_add">ADD DIARY</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_simpan">SAVE</string>
+    <string name="txt_isi">Notes</string>
+    <string name="txt_kategori">Category</string>
+    <string name="page1">page1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/drawable/color_selector.xml" value="0.125" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/drawable/ic_back.xml" value="0.125" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/drawable/kotak_bottomnav.xml" value="0.125" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/activity_imput.xml" value="0.25" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/activity_input.xml" value="0.264" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/activity_splash_screen_uts.xml" value="0.176" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/fragment.xml" value="0.10989583333333333" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/fragment_1.xml" value="0.176" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/fragment_2.xml" value="0.1140625" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/fragment_diary.xml" value="0.21282798833819241" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/fragment_profil.xml" value="0.2" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/item_diary.xml" value="0.25" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/items.xml" value="0.2" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/layout/main_menu.xml" value="0.1140625" />
+        <entry key="..\:/10119276_MyDiaryUTS/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/10119276_MyMaps/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/10119276_MyMaps/app/src/main/res/layout/activity_splash_screen_uts.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/10119276_MyMaps/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

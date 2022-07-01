@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+NIM   : 10119276
+Nama  : Nasthasa Wulan Ghani Sopian
+Kelas : IF-7
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_back"
+    android:id="@+id/main_activity"
+    tools:context=".view.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/rv_diary"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/botNav"
+        android:orientation="vertical" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="60dp" />
+
+    <Button
+        android:id="@+id/inimap"
+        android:layout_width="350dp"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/botNav"
+        android:text="Lihat Map"/>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/botNav"
+        android:layout_width="450dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/kotak_bottomnav"
+        android:elevation="1dp"
+        android:foregroundGravity="center"
+        android:paddingHorizontal="0dp"
+        app:menu="@menu/main_menu" />
+
+</RelativeLayout>
